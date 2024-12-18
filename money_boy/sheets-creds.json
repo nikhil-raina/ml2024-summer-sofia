@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "money-boy-442102",
-  "private_key_id": "463dc63047f042e82ca072e57efd1b7cfd5e827d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCt/MIUWN3IKsS5\nR+rlpn+vrz18eHgR38Mh78j1/rA3IsZXkkcNHzZ+7Rzxykv+Mhi7Y7zLGNcPFs4V\nXS+Mw8RAHebP5+AXzaFa0a5032LZhtlSNT+5W+YmtYXIpzc0mUcrRNSzqw/Zvgsf\nmSUocn5C9t/JpXt49ZbkddC9acXkyHJP8wgFZQ9UIuEbMCznRP5RhhL+gn4R7aMJ\nqKlminwase4KUFJlWADfuj+Y3NK5GKhHImqOpcIKJVAgbZ9Vz4BY6E3pLm9V6x/+\n2U4r61VVDthX5xfw1VGD4RhdQo667XCoID4AKbAlggrm6LPXvUjqDBVncYaznh/0\nJXvhxANhAgMBAAECggEAAVVHfsq6pg6FFez6DOD7f2r1qv4EsEEfUnu3BdLCCpWc\nOMJ9w7ERkKvYH/aIghfT3H92XFVmHDMU4Jk3eJX9S28ZOC6I/yCx0dd7hWDq7dMS\nmCaRHLZSdVlop0u39KnQH7HYCgGDgkvyY49Pr3tvWguwhbfcSh4yXhE0qIdiezMO\nXxxZA6fkbWDvpnrpHoRVN0w8jyE8L0+lE9iLmN5Ta8S3KONr/6PxGoHQLW6TbP6e\nfht8YZmjNGL70QcNrA8pn0p/QFipsz4zRqmuzGyIQl8nY1h63K1kOdZGHeEIAbli\nXa/rNV7vdxPLhzLFlS8Xj7k6DjswHqBhiIl7qpvNAQKBgQDfeRDeIi6YMAhAfzev\nZqyn9V1S3VPMjz9X+Xu7CtBec2rr0Eznk+OiFn2TYKyVOb5YqnnKttY2tcKoA1/R\nUTdS3X33rEBE3TdjoBUITs3scfWpuOw/3onFDRR4TBsIkGdJ0lYgEIa/eoY4wZLC\nQYTF/nyHwy2g30o2DFVsnsrAYQKBgQDHT8kq24ig5vcyhNbXKzIlk1JTEX/YqXb9\nHbfdd6FOf55ZTUvh89lIPMwai9N3FcTl2yb3InB0S+zqmuHDs2WxyIaX5Bv5/iVE\nu3GwV4WJ8homIUDudFWifffvJtM99nPRDnSSPwdHhNKyPSS7ZSipgRKKnsWvucky\ntJ36uiwjAQKBgAFl5n8dQ6FcG5EbuqN0Rvw+Arlz/QQ4mTLZsrZ22NreafrTsMd6\nG2B2N47mee3tEI3Jcz2bazeoZ3FZpA3RLkFsdU9JWpWTtLcA12DX7V3fUKQhLgkw\nQThkXo5qG3kwPhUuJa/Jqq4j/Bb6zwo8ErKSZwEKbYymGPbBmP829xnBAoGALr2G\nNpe/JcSkSeOfIlyN6QPwdWyQJ7YuIlO6z6QDXw5MizK2TenKlcc0MjGCSNYBE8pe\nC+y2pH89sxLZSPSkL5oP/kTPTsQL519x3OHZfi0ZdsGroYAEqROTdjELrudB58/V\nBIrlYR9D7eqq14t0irOrLnjncTtHdK2osqjAOwECgYAq8G1DVXBxe6gXwQc36Z5I\n/ogAd2q8RxOLzrrBHmMegoVOS+eN8nRa0RD2TZY7rJauyGxk5bJhNAvKWLujWxcS\nWkj8YUrYHJY4WDc/GdAjBams24LnEaMDrVMPbBHjUxea+SIO7Beny73ETNOqjqty\nKJWvZKQRvscVu4xdDxzX1w==\n-----END PRIVATE KEY-----\n",
-  "client_email": "money-boy@money-boy-442102.iam.gserviceaccount.com",
-  "client_id": "117968119698518533538",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/money-boy%40money-boy-442102.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  message: "GET_DETAILS_FROM_ACCOUNT"
 }
